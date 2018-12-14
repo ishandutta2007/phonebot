@@ -150,3 +150,10 @@ these steps...
 * Run *node app.js* to start application 
 * Ensure application running on localhost is available at external URL, e.g. ngrok
 * Modify Slack outgoing webhooks to point to new URL
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
